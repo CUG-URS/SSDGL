@@ -1,6 +1,4 @@
-https://paperswithcode.com/sota/hyperspectral-image-classification-on-casi?p=a-spectral-spatial-dependent-global-learning
-https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=a-spectral-spatial-dependent-global-learning
-https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=a-spectral-spatial-dependent-global-learning
+
 
 ## Overview
 ```
